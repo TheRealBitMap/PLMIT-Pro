@@ -1,0 +1,143 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/65968.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1712px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  font-size: 6rem;
+  font-weight: 700;
+  animation-duration: 1000ms;
+  margin: 413px 538px 0 20px;
+}
+
+.u-section-1 .u-text-2 {
+  animation-duration: 1000ms;
+  margin: 66px 97px 0 20px;
+}
+
+.u-section-1 .u-text-3 {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 3rem;
+  animation-duration: 1000ms;
+  margin: 520px 538px 0 20px;
+}
+
+.u-section-1 .u-text-4 {
+  animation-duration: 1000ms;
+  margin: 61px 40px 0 570px;
+}
+
+.u-section-1 .u-text-5 {
+  background-image: none;
+  animation-duration: 1000ms;
+  margin: -168px 570px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 1412px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 358px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 358px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+    margin-left: 410px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1934px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 138px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 138px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-right: 190px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: auto;
+    margin-top: 20px;
+    margin-right: 190px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1451px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 10px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2120px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: 373px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 66px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-top: 0;
+    margin-right: 0;
+  }
+}
